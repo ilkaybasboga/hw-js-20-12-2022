@@ -1,6 +1,6 @@
 # hw-js-20-12-2022
 
-[CLİCK]
+[CLİCK](https://ilkaybasboga.github.io/hw-js-20-12-2022/)
 
 ODEV1: Console'dan girilen sayilarin ortalamasini bulan programi yaziniz. Program ilk olarak kullanicidan kac tane sayi gireceginin almali bu bilgi isiginda girilen sayilarin ortalamasini hesaplayarak yazdirmalidir.
 
